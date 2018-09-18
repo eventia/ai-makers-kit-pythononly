@@ -8,5 +8,5 @@ Python 설치
 
 # MegaGenie
 
-# Read
+# ReadME
 
